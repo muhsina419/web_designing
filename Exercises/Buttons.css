@@ -1,0 +1,194 @@
+.subscribe-button{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border:none;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor:pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+    margin: 8px;
+}
+
+.subscribe-button:hover{
+    opacity: 0.8;
+}
+.subscribe-button:active{
+    opacity: 0.5;
+}
+
+.join-button{
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-style: solid;
+    border-color: rgb(41, 118, 211);
+    border-width: 1px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+    color: 0.15s;
+    padding-top: 9px;
+    padding-left: 16px;
+    padding-bottom: 9px;
+    padding-right: 16px;
+    vertical-align: top;
+    margin: 8px;
+}
+
+.join-button:hover{
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
+
+.join-button:active{
+    opacity: 0.7;
+}
+.tweet-button{
+    background-color: rgb(5, 160, 232);
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    height: 36px;
+    width: 90px;
+    border-radius: 35px;
+    cursor: pointer;
+    margin: 8px;
+    vertical-align: top;
+}
+
+.tweet-button:hover{
+    box-shadow: 1px 1px 5px rgba(31, 1, 1, 0.768);
+}
+
+.request-now{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: bold;
+    width: 110px;
+    height:40px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    margin: 8px;
+    transition: opacity 0.15s;
+}
+
+.request-now:hover{
+     opacity: 0.8;;
+}
+
+
+.Amazon{
+    background-color: rgb(247, 202, 2);
+    border: none;
+    height: 30px;
+    width:200px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight:400;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.Amazon:hover{
+    background-color: rgb(247, 205, 3);
+}
+
+.github{
+    background-color: green;
+    border: none;
+    width:90px ;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 10px;
+    transition: box-shadow 0.15s;
+}
+
+.start{
+    background-color: rgb(121, 82 , 179);
+    color: white;
+    border: none;
+    height: 40px;
+    width:110px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 6px;
+    margin-left: 20px;
+    transition:background-color 0.15s ;
+}
+
+.start:hover{
+    background-color: rgb(99, 60, 156);
+}
+
+.download{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border-width: 1px;
+    border-style:solid ;
+    border-color: rgb(108, 117, 125);
+    height:40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.download:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+
+.apply{
+    background-color: blue;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    border-radius: 20px;
+    width:240px;
+    height:40px;
+    font-weight:bold ;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+}
+
+.apply:hover{
+    background-color: rgb(2, 70, 138);
+}
+
+.save{
+    background-color:white;
+    color: rgb(10, 102, 194);
+    border-width: 1px;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    height:40px;
+    width: 80px;
+    font-weight: bold;
+    font-size:15px;
+    border-radius:20px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    border-width: 0.15s;
+    margin-top: 10px;
+}
+
+.save:hover{
+    background-color: rgb(226, 240, 254);
+    border-width: 2px;
+}
